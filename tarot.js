@@ -1,6 +1,6 @@
 (function () {
     const BASE_IMAGE_URL = "https://rc7502.github.io/randomtarot/cards/";
-    const IMAGE_EXTENSION = ".png";
+    const IMAGE_EXTENSION = ".PNG";
 
     const CARDS = [
         { name: "The Fool", slug: "Fool" },
